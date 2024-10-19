@@ -1,21 +1,41 @@
 ## Hi there I'm Álvaro👋
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Denix04)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/álvaro-debernardi-48b6302b6)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/álvaro-debernardi-48b6302b6)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alvarodebernardi1@gmail.com)
 
-Welcome to my GitHub page. I'm finishing my computer analytic degree.
+#### Welcome to my GitHub page. I'm finishing my computer analytic degree.
 
 - 💻 I'm a passionate of computers and tecnology.
 - 🌱 I’m currently learning Spring Security and Assembly
 - 👯 I’m looking to collaborate on a team to gain experience.
 
+## Programming Languages I use: 
+
 <p align="left">
- <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/cpp.png" alt=cplusplus width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/c.png" alt=c width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/python.png" alt=python width="60" height="60"/>
+
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/java.svg" alt=c width="40" height="40"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/c.svg" alt=cplusplus width="40" height="40"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/haskell.svg" alt=python width="40" height="40"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/python.svg" alt=python width="40" height="40"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/mysql.svg" alt=python width="40" height="40"/>
 </p>
 
-## Programming Languages I use: 
+## Frameworks:
+<p>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/spring.svg" alt=python width="40" height="40"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/jwt.svg" alt=python width="40" height="40"/>
+</p>
+
+## Tools:
+<p>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/git.svg" alt=python width="40" height="40"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/Github_dark.svg" alt=python width="40" height="40"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/linux.svg" alt=python width="40" height="40"/>
+</p>
+
+
+
+<!-- for adding in the future
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a)
 ![Ruby](http://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=ffe8e8)
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
@@ -37,7 +57,6 @@ Welcome to my GitHub page. I'm finishing my computer analytic degree.
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 ![Spring](http://img.shields.io/badge/-Spring-000000?style=flat-square&logo=spring&)
-## Tools:
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
@@ -48,8 +67,6 @@ Welcome to my GitHub page. I'm finishing my computer analytic degree.
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux&logoColor=FCC624)
 ![LaTeX](http://img.shields.io/badge/-LaTeX-000000?style=flat-square&logo=latex&logoColor=ffffff)<br />
-
-<!-- for adding in the future
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632)
