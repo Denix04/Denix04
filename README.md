@@ -13,24 +13,24 @@
 
 <p align="left">
 
- <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/java.svg" alt=c width="40" height="40"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/c.svg" alt=cplusplus width="40" height="40"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/haskell.svg" alt=python width="40" height="40"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/python.svg" alt=python width="40" height="40"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/mysql.svg" alt=python width="40" height="40"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/java.svg" alt=c width="30" height="30"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/c.svg" alt=cplusplus width="30" height="30"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/haskell.svg" alt=python width="30" height="30"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/python.svg" alt=python width="30" height="30"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/mysql.svg" alt=python width="30" height="30"/>
 </p>
 
 ## Frameworks:
 <p>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/spring.svg" alt=python width="40" height="40"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/jwt.svg" alt=python width="40" height="40"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/spring.svg" alt=python width="30" height="30"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/jwt.svg" alt=python width="30" height="30"/>
 </p>
 
 ## Tools:
 <p>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/git.svg" alt=python width="40" height="40"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/Github_dark.svg" alt=python width="40" height="40"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/linux.svg" alt=python width="40" height="40"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/git.svg" alt=python width="30" height="30"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/Github_dark.svg" alt=python width="30" height="30"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/Denix04/Denix04/main/icons/linux.svg" alt=python width="30" height="30"/>
 </p>
 
 
